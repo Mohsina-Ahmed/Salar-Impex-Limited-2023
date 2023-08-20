@@ -4,7 +4,7 @@
 
 ## Established since March 2020
 
-## Company information:
+## Company Information:
 
 ### -- The Leading International Trade & Wholesale Of Food Market Since 2nd March of 2020.
 
