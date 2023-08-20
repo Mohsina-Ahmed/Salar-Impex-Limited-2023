@@ -1,22 +1,22 @@
-## This is the new website designed by Mohsina Ahmed
+## Company Website: Salar Impex Limited
 
-## For the company Salar Impex Limited
+#### Designed by: Mohsina Ahmed
 
-## Company has been established since March 2020
+## Established since March 2020
 
 ## Company information:
 
-## The Leading International Trade & Wholesale Of Food Market Since 2nd March of 2020.
+### -- The Leading International Trade & Wholesale Of Food Market Since 2nd March of 2020.
 
-## Salar Impex Limited is a distinguished Registered Private Limited Company based in the vibrant city of London.
+### -- Salar Impex Limited is a distinguished Registered Private Limited Company based in the vibrant city of London.
 
 ## Director
 
-### SALINA AKHTER
+### -- SALINA AKHTER
 
-### TASFIAH RAHMAN
+### -- TASFIAH RAHMAN
 
-## Company offer
+## Company offers ----
 
 ![product pics](image.png)
 
