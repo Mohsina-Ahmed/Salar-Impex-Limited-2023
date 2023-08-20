@@ -4,19 +4,19 @@
 
 ## Company has been established since March 2020
 
-# Company information:
+## Company information:
 
-# The Leading International Trade & Wholesale Of Food Market Since 2nd March of 2020.
+## The Leading International Trade & Wholesale Of Food Market Since 2nd March of 2020.
 
-# Salar Impex Limited is a distinguished Registered Private Limited Company based in the vibrant city of London.
+## Salar Impex Limited is a distinguished Registered Private Limited Company based in the vibrant city of London.
 
 ## Director
 
-# SALINA AKHTER
+### SALINA AKHTER
 
-# TASFIAH RAHMAN
+### TASFIAH RAHMAN
 
-# Company offer
+## Company offer
 
 ![product pics](image.png)
 
